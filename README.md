@@ -1,4 +1,4 @@
-`cc-tweaked`
+# `cc-tweaked`
 
 ## how to use datapacks
 
